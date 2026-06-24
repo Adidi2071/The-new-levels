@@ -1,0 +1,10 @@
+body {
+    cursor: url("cursor.png"), auto;
+}
+body {
+    cursor: pointer;
+}
+cursor: url("cursor.png"), auto;
+body {
+    cursor: url("https://thenewlevels.vercel.app/cursor.png") 4 4, auto;
+}
