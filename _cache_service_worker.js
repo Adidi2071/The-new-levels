@@ -8,7 +8,7 @@
 var PRECACHE_ID = 'rom-patcher-js';
 var PRECACHE_VERSION = 'v322';
 var PRECACHE_URLS = [
-	'/RomPatcher.js/', '/RomPatcher.js/index.html',
+	'/RomPatcher.js/', '/RomPatcher.js/patcher.html',
 	'/RomPatcher.js/manifest.json',
 	/* Rom Patcher JS core (code) */
 	'/RomPatcher.js/rom-patcher-js/RomPatcher.js',
